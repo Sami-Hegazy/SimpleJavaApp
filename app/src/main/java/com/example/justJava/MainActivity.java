@@ -1,4 +1,4 @@
-package com.example.justJava;
+package com.example.justjava;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
